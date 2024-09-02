@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #a7eba7;
+    }
+    header {
+        background: #05e736;
+        color: #a4cca3;
+        padding: 10px 20px;
+        text-align: center;
+    }
+    main {
+        padding: 20px;
+        text-align: center;
+    }
+    footer {
+        background: #333;
+        color: #fff;
+        padding: 10px 20px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+<header>
+    <div id="nav">
+        <a href="index.html">TRANG CHỦ</a>
+        <a href="đăng kí.html">ĐĂNG KÍ</a>
+    </div>
+</header>
+<body>
+    <form action="xulyform.html" method="post"></form>
+    <table width="500" height="200" border="2" cellpadding="5" align="center">
+        <tr>
+            <th colspan="2" align="center">Đăng nhập</th>
+        </tr>
+
+        <tr>
+            <td>Tên đăng nhập</td>
+            <td><input type="text" placeholder="nhập tên đăng nhập" size="40" name="txtname"></td>
+        </tr>
+
+        <tr>
+            <td>Mật khẩu</td>
+            <td><input type="text" placeholder="nhập mật khẩu" size="40" name="txtpass"></td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" name="dangnhap" value="Đăng nhập" 
+            </td>
+        </tr>
+
+    </table>
+</form>
+</body>
+</html>
