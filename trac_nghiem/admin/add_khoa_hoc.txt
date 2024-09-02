@@ -1,0 +1,2 @@
+*) PHP
+Khoá học cung cấp cho học viên đầy đủ các kỹ năng lập trình PHP căn bản thông qua các ví dụ để học viên có thể thực hành theo và ứng dụng vào thực tế. Điểm khác biệt của khóa học là nội dung đầy đủ, thực hành chi tiết, cung cấp đủ thời lượng để bạn có thể hiểu được bản chất của việc lập trình PHP cơ bản.

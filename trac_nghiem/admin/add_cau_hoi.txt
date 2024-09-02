@@ -1,0 +1,43 @@
+1) dễ
+a) một đáp án
+Làm thế nào để thay đổi lề trái của nội dung:
+A.Padding: ;0::B.Indent: ;0::C.Margin-left: ;1::D.Text-indent: ;0
+
+Thẻ HTML nào được sử dụng để trỏ tới external style sheet:
+A.&lt;link rel= “stylesheet” type= “text/css” href=”mainstyle.css”>;1::
+B&lt;style src=”mainstyle.css”>;0::
+C.&lt;stylesheet>mainstyle.css</stylesheet>;0::
+D.&lt;link url= “stylesheet” type= “text/css” href=”mainstyle.css”>;0
+
+
+2) trung bình
+a) một đáp án
+Đâu không phải là một thuộc tính trong CSS?
+A.object-fit;0::B.pointer-events;0::C.font-smoothing;0::D.text-opacity;1
+
+Bộ chọn :focus dùng để chọn tất cả các phần tử ___,___,___đang được người dùng truy cập vào(chọn 3)
+A.input;1::B.textarea;1::C.select;1::D.button;0 
+
+b) có hình ảnh
+Hình dưới đây đã sử dụng các thuộc tính nào
+A.border-style: solid;
+border-bottom-right-radius:15px;;0::B.border-style: dotted;
+border-bottom-left-radius:15px;;0::C.border-style: dashed;
+border-bottom-left-radius:15px;;1::D.border-style: dotted;
+border-bottom-right-radius:15px;;0
+images/cau_hoi_3.png
+
+
+3) khó
+a) một đáp án
+Thuộc tính z-index dùng để
+A.Đinh vị tương đối cho một thành phần;0::
+B.Quy định kiều viền của một đối tượng web;0::
+C.Tạo hiệu ứng màu sắc cho liên kết;0::
+D.Đặt các thành phần web ở các lớp khác nhau;1
+
+text-transform: uppercase dùng để định dạng cho thành phần hiệu ứng
+A.in hoa;1::B.in hoa kí tự đầu tiên ở mỗi từ;0::C.in thường;0::D.không áp dụng hiệu ứng nào cả;0
+
+Dòng nào để thiết lập canh đều cho văn bản
+A.text-align: center;0::B.text-align: justify;1::C.font-align: center;0::D.font-align:justify.;0
